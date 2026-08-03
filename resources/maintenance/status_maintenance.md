@@ -1,6 +1,7 @@
 # Repository Activity Maintenance Report
 
 ## Potentially Abandoned:
+- WebUI Forge
 - GPT crawler
 - GPT4ALL
 - Duplicacy
@@ -23,6 +24,7 @@ _None_
 ## Rebranded / Moved:
 - Open Intepreter (Moved to: https://github.com/openinterpreter/openinterpreter)
 - OpenUtau (Moved to: https://github.com/openutau/OpenUtau)
+- Supersonic (Moved to: https://github.com/supersonic-app/supersonic)
 - Ente (Moved to: https://github.com/ente/ente)
 - Wealthfolio (Moved to: https://github.com/wealthfolio/wealthfolio)
 - Bulk Crap Uninstaller (Moved to: https://github.com/BCUninstaller/Bulk-Crap-Uninstaller)
