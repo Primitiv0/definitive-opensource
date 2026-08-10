@@ -4,7 +4,7 @@
 - WebUI Forge
 - GPT crawler
 - GPT4ALL
-- Duplicacy
+- CasaOS
 - zsh-autosuggestions
 - Quill
 - GitHub Desktop - The Linux Fork
@@ -29,6 +29,7 @@ _None_
 - Wealthfolio (Moved to: https://github.com/wealthfolio/wealthfolio)
 - Bulk Crap Uninstaller (Moved to: https://github.com/BCUninstaller/Bulk-Crap-Uninstaller)
 - Gluetun (Moved to: https://github.com/passteque/gluetun)
+- WinBoat (Moved to: https://github.com/winboat-org/winboat)
 - Everywhere (Moved to: https://github.com/Sylinko/Everywhere)
 - MindForger (Moved to: https://github.com/dvorka-oss/mindforger)
 - PixelPlayer (Moved to: https://github.com/PixelPlayerHQ/PixelPlayer)
