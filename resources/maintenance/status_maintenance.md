@@ -23,6 +23,7 @@ _None_
 
 ## Rebranded / Moved:
 - Open Intepreter (Moved to: https://github.com/openinterpreter/openinterpreter)
+- Pelican Panel (Moved to: https://github.com/pelican/panel)
 - OpenUtau (Moved to: https://github.com/openutau/OpenUtau)
 - Supersonic (Moved to: https://github.com/supersonic-app/supersonic)
 - Ente (Moved to: https://github.com/ente/ente)
