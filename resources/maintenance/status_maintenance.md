@@ -10,11 +10,13 @@
 - GitHub Desktop - The Linux Fork
 - fullmoon
 - sshx
+- percollate
 
 ## Archived:
 - Verba
 - Roo Code
 - Void
+- Airweave
 - Refact
 - Maestral
 
@@ -29,8 +31,9 @@ _None_
 - Ente (Moved to: https://github.com/ente/ente)
 - Wealthfolio (Moved to: https://github.com/wealthfolio/wealthfolio)
 - Bulk Crap Uninstaller (Moved to: https://github.com/BCUninstaller/Bulk-Crap-Uninstaller)
+- Omarchy (Moved to: https://github.com/omacom/omarchy)
 - Gluetun (Moved to: https://github.com/passteque/gluetun)
 - WinBoat (Moved to: https://github.com/winboat-org/winboat)
 - Everywhere (Moved to: https://github.com/Sylinko/Everywhere)
-- MindForger (Moved to: https://github.com/dvorka-oss/mindforger)
+- novelWriter (Moved to: https://github.com/saga-soft/novelWriter)
 - PixelPlayer (Moved to: https://github.com/PixelPlayerHQ/PixelPlayer)
