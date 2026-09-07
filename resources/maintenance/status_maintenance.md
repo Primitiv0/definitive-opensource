@@ -9,6 +9,7 @@
 - Quill
 - GitHub Desktop - The Linux Fork
 - fullmoon
+- Phoenix
 - sshx
 - percollate
 
@@ -16,8 +17,10 @@
 - Verba
 - Roo Code
 - Void
+- File Browser
 - Airweave
 - Refact
+- Papermerge DMS
 - Maestral
 
 ## No Longer Exists (404):
