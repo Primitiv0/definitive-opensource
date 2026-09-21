@@ -5,13 +5,13 @@
 - GPT crawler
 - GPT4ALL
 - CasaOS
+- Ice
 - zsh-autosuggestions
 - Quill
 - GitHub Desktop - The Linux Fork
 - fullmoon
 - Phoenix
 - A/B Street
-- sshx
 - percollate
 
 ## Archived:
@@ -35,6 +35,7 @@ _None_
 - Ente (Moved to: https://github.com/ente/ente)
 - Wealthfolio (Moved to: https://github.com/wealthfolio/wealthfolio)
 - Bulk Crap Uninstaller (Moved to: https://github.com/BCUninstaller/Bulk-Crap-Uninstaller)
+- WSL Manager (Moved to: https://github.com/bostrot/wslmanager)
 - Omarchy (Moved to: https://github.com/omacom/omarchy)
 - Gluetun (Moved to: https://github.com/passteque/gluetun)
 - WinBoat (Moved to: https://github.com/winboat-org/winboat)
