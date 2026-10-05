@@ -4,12 +4,15 @@
 - WebUI Forge
 - GPT crawler
 - GPT4ALL
-- CasaOS
+- Plandex
 - Ice
 - zsh-autosuggestions
 - Quill
+- Second Me
 - GitHub Desktop - The Linux Fork
+- CodiMD
 - fullmoon
+- STORM
 - Phoenix
 - A/B Street
 - percollate
@@ -22,10 +25,11 @@
 - Airweave
 - Refact
 - Papermerge DMS
+- Atuin Desktop
 - Maestral
 
 ## No Longer Exists (404):
-_None_
+- Glass
 
 ## Rebranded / Moved:
 - Open Intepreter (Moved to: https://github.com/openinterpreter/openinterpreter)
