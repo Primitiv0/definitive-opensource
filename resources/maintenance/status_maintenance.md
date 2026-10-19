@@ -22,11 +22,13 @@
 - Roo Code
 - Void
 - File Browser
+- windsurf.vim
 - Airweave
 - Refact
 - Papermerge DMS
 - Atuin Desktop
 - Maestral
+- Hex
 
 ## No Longer Exists (404):
 - Glass
