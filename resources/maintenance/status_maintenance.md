@@ -15,6 +15,7 @@
 - STORM
 - Phoenix
 - A/B Street
+- Web Clipper
 - percollate
 
 ## Archived:
@@ -32,6 +33,7 @@
 
 ## No Longer Exists (404):
 - Glass
+- SpotiFLAC
 
 ## Rebranded / Moved:
 - Open Intepreter (Moved to: https://github.com/openinterpreter/openinterpreter)
