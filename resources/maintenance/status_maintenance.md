@@ -13,6 +13,7 @@
 - CodiMD
 - fullmoon
 - STORM
+- Plash
 - Phoenix
 - A/B Street
 - Web Clipper
@@ -26,6 +27,7 @@
 - windsurf.vim
 - Airweave
 - Refact
+- Soft Serve
 - Papermerge DMS
 - Atuin Desktop
 - Maestral
