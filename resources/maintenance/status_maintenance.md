@@ -26,6 +26,7 @@
 - Void
 - File Browser
 - windsurf.vim
+- UI-TARS
 - Airweave
 - Refact
 - Soft Serve
@@ -45,6 +46,7 @@
 - OpenUtau (Moved to: https://github.com/openutau/OpenUtau)
 - Spotube (Moved to: https://github.com/team-spotube/spotube)
 - Supersonic (Moved to: https://github.com/supersonic-app/supersonic)
+- Homer (Moved to: https://github.com/homer-dashboard/homer)
 - Ente (Moved to: https://github.com/ente/ente)
 - Wealthfolio (Moved to: https://github.com/wealthfolio/wealthfolio)
 - Bulk Crap Uninstaller (Moved to: https://github.com/BCUninstaller/Bulk-Crap-Uninstaller)
