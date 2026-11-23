@@ -17,7 +17,6 @@
 - Plash
 - Phoenix
 - A/B Street
-- Web Clipper
 - percollate
 
 ## Archived:
@@ -37,7 +36,6 @@
 
 ## No Longer Exists (404):
 - Glass
-- SpotiFLAC
 
 ## Rebranded / Moved:
 - Open Intepreter (Moved to: https://github.com/openinterpreter/openinterpreter)
@@ -48,6 +46,7 @@
 - Supersonic (Moved to: https://github.com/supersonic-app/supersonic)
 - Homer (Moved to: https://github.com/homer-dashboard/homer)
 - Ente (Moved to: https://github.com/ente/ente)
+- GPT-SoVITS-WebUI (Moved to: https://github.com/bilibili/GPT-SoVITS)
 - Wealthfolio (Moved to: https://github.com/wealthfolio/wealthfolio)
 - Bulk Crap Uninstaller (Moved to: https://github.com/BCUninstaller/Bulk-Crap-Uninstaller)
 - WSL Manager (Moved to: https://github.com/bostrot/wslmanager)
@@ -58,3 +57,4 @@
 - novelWriter (Moved to: https://github.com/saga-soft/novelWriter)
 - Rclone UI (Moved to: https://github.com/rclone/rclone-ui)
 - PixelPlayer (Moved to: https://github.com/PixelPlayerHQ/PixelPlayer)
+- SpotiFLAC (Moved to: https://github.com/spotbye/Flacora)
